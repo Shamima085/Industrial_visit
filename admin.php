@@ -6,5 +6,13 @@
 <li>Menu Item <?php echo $i; ?></li>
 <?php } ?>
 </ul>
+
+<?
+echo "this is visual studio";
+?>
+
+
+
+
 </body>
 </html>
